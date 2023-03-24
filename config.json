@@ -1,0 +1,10 @@
+{
+  "BOT": {
+    "TOKEN_MAIN": "5571028586:AAHvSaBspDcHkHU5v6doPOtcKsxRWYKLyv8",
+    "TOKEN_ALL": [],
+    "ADMINS": [381252111]
+  },
+  "CHAT": [-805830104],
+  "DATABASE": "postgres:postgres@localhost:5432/feedbackBot"
+
+}
