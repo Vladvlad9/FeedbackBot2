@@ -1,4 +1,4 @@
 source ./venv/bin/activate
-/usr/bin/pip install -r /opt/git/TimeTableBot/requirements.txt
+/usr/bin/pip install -r /opt/git/FeedbackBot2/requirements.txt
 
-/usr/bin/python /opt/git/TimeTableBot/app.py
+/usr/bin/python /opt/git/FeedbackBot2/app.py
